@@ -1,0 +1,2 @@
+# wasteagram
+Wasteagram Mobile Application
